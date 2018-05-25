@@ -4,6 +4,15 @@ Motivação- Eu estava precisando de um cadeado para o armário da sala. Portant
 
 Tutorial: Usei o tutorial de Windows Forms para montagem de um modelo de Bloco de Notas, conforme site: https://www.youtube.com/watch?v=_vZ1vUWu4sQ
 
-Foi gerado assim o seguinte:
-<img src="Imagens/EsbocoTutorial.PNG" width="450">
+Foi gerado, assim, o seguinte:
 
+<img src="Imagens/EsbocoTutorial.PNG" width="550">
+
+Esboço GUI:
+
+A janela possui três botões: Os dígitos '1' e '0' e o botão de confirmar 'Enter'.
+No visor(retangulo branco) irá aparecer os 4 digitos da senha, seja primeira ou segunda parte, digitada.
+Após apertar o botão de confirmar o visor irá apagar a senha e escrever em seu lugar se é correta ou não.
+Por fim irá apagar essa mensagem também e irá esperar o próximo passo(pode ser a segunda parte da senha ou apaertar confirmar para fechar o cadeado)
+
+<img src="Imagens/EsbocoProjeto.PNG" width="500">
