@@ -15,4 +15,4 @@ No visor(retangulo branco) irá aparecer os 4 digitos da senha, seja primeira ou
 Após apertar o botão de confirmar o visor irá apagar a senha e escrever em seu lugar se é correta ou não.
 Por fim irá apagar essa mensagem também e irá esperar o próximo passo(pode ser a segunda parte da senha ou apaertar confirmar para fechar o cadeado)
 
-<img src="Imagens/EsbocoProjeto.PNG" width="500">
+<img src="Imagens/EsbocoCadeado.PNG" width="500">
