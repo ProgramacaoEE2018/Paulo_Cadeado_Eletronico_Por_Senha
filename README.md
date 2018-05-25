@@ -6,5 +6,5 @@ Tutorial: Usei o tutorial de Windows Forms para montagem de um modelo de Bloco d
 
 Foi gerado, assim, o seguinte:
 
-<img src="Imagens/EsbocoTutorial.PNG" width="450">
+<img src="Imagens/EsbocoTutorial.PNG" width="550">
 
