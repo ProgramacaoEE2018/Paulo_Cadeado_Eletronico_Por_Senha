@@ -5,6 +5,11 @@ Motivação- Eu estava precisando de um cadeado para o armário da sala. Portant
 Tutorial: Usei o tutorial de Windows Forms para montagem de um modelo de Bloco de Notas, conforme site: https://www.youtube.com/watch?v=_vZ1vUWu4sQ
 
 Foi gerado, assim, o seguinte:
+<<<<<<< HEAD
+=======
+
+<img src="Imagens/EsbocoTutorial.PNG" width="550">
+>>>>>>> 212dc4831f1c6603f570b24c490e9365d3e03464
 
 <img src="Imagens/EsbocoTutorial.PNG" width="550">
 
