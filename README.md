@@ -19,9 +19,9 @@ Por fim irá apagar essa mensagem também e irá esperar o próximo passo(pode s
 
 Quanto a compilação:
 
-	O programa foi produzido e compilado utilizando Windows Forms no Visual Studios 2017. A compilação foi feita com o compilador do pacote do Visual Studios. É possível ter que alterar o endereço da imagem usada. No código está indicado com comentário esse aviso. A imagem usada encontra-se na pasta "Imagens/" com o nome "LED_Verde".
+-	O programa foi produzido e compilado utilizando Windows Forms no Visual Studios 2017. A compilação foi feita com o compilador do pacote do Visual Studios. É possível ter que alterar o endereço da imagem usada. No código está indicado com comentário esse aviso. A imagem usada encontra-se na pasta "Imagens/" com o nome "LED_Verde".
 	
 Quanto ao uso do programa:
 
-	O programa irá começar na definição de senha digite a senha de 8 digitos dividindo-a em duas partes de 4 digitos. O programa está preparado para casos de digitar a mais ou a menos do que o necessário, caso ocorra só apertar enter e digitar de novo, o programa irá resetar o valor salvo somente para parte com o excesso ou falta de digitos.
+-	O programa irá começar na definição de senha digite a senha de 8 digitos dividindo-a em duas partes de 4 digitos. O programa está preparado para casos de digitar a mais ou a menos do que o necessário, caso ocorra só apertar enter e digitar de novo, o programa irá resetar o valor salvo somente para parte com o excesso ou falta de digitos.
 	Após definir a senha o cadeado irá ter duas senhas salvas: A criada, que será utilizada para abrir e fechar o cadeado, e a de Redefinição, senha compostas só por zeros que só pode ser usado com o cadeado aberto. O cadeado começa aberto e ligado, é possível saber se está ligado pelo "LED" verde abaixo do visor. Quando coloca sua senha o cadeado irá abrir, ou fechar, e desligar o cadeado. Com o cadeado desligado somente o botão "Enter" irá funcionar para liga-lo novamente. Apertar o botão "Enter" sem digitar algo irá limpar o visor.
