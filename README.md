@@ -2,6 +2,14 @@
 
 Motivação- Eu estava precisando de um cadeado para o armário da sala. Portanto seria útil ter um por senha.
 
+Fluxograma:
+
+<img src="Imagens/FluxogramaCadeado.PNG" width="550">
+
+Diagrama de Classes:
+
+<img src="Imagens/DiagramaDeClasses.PNG" width="550">
+
 Tutorial: Usei o tutorial de Windows Forms para montagem de um modelo de Bloco de Notas, conforme site: https://www.youtube.com/watch?v=_vZ1vUWu4sQ
 
 Foi gerado, assim, o seguinte:
