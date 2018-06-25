@@ -8,7 +8,7 @@ Fluxograma:
 
 Diagrama de Classes:
 
-<img src="Imagens/DiagramaDeClasses.png" width="550">
+<img src="Imagens/DiagramaDeClasses.png" width="450">
 
 Tutorial: Usei o tutorial de Windows Forms para montagem de um modelo de Bloco de Notas, conforme site: https://www.youtube.com/watch?v=_vZ1vUWu4sQ
 
